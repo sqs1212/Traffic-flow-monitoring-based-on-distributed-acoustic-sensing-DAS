@@ -75,7 +75,6 @@ This repository provides two self-built DAS datasets derived from real road segm
 
 - Due to the geographic location of the monitored road segment, the number of large trucks is relatively small. To alleviate class imbalance, we apply Mixup-based data augmentation within each class.
 
-- After augmentation:
   - Train: 12,111 samples
   - Val: 2,332 samples
 - Input size:
